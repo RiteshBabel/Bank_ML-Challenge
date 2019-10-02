@@ -1,4 +1,4 @@
-# HDFC_ML-Challenge
+# ML-Challenge
 
 Problem Statement :
 The givin dataset is Savings acount holders in a bank. We need to predict weather a customer should be be givin certain benifits or not. 
